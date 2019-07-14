@@ -1,0 +1,12 @@
+C:\Users\6avs6\Desktop\multytrading\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\E14-440FileViewer.NET.exe.config
+C:\Users\6avs6\Desktop\multytrading\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\E14-440FileViewer.NET.exe
+C:\Users\6avs6\Desktop\multytrading\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\E14-440FileViewer.NET.pdb
+C:\Users\6avs6\Desktop\multytrading\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Castle.Core.dll
+C:\Users\6avs6\Desktop\multytrading\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Moq.dll
+C:\Users\6avs6\Desktop\multytrading\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Castle.Core.xml
+C:\Users\6avs6\Desktop\multytrading\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\bin\x86\Debug\Moq.xml
+C:\Users\6avs6\Desktop\multytrading\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.csproj.CoreCompileInputs.cache
+C:\Users\6avs6\Desktop\multytrading\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.csproj.CopyComplete
+C:\Users\6avs6\Desktop\multytrading\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.exe
+C:\Users\6avs6\Desktop\multytrading\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.pdb
+C:\Users\6avs6\Desktop\multytrading\E14-440FileViewer.NET.v9\E14-440FileViewer.NET\obj\x86\Debug\E14-440FileViewer.NET.csprojAssemblyReference.cache
